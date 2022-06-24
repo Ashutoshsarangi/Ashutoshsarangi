@@ -1,6 +1,6 @@
 ## Hey  👋, This is Ashutosh Sarangi
 
-A determined Front-End Developer having around 6 years of experience. I am always eager to learn new technology and improving my self in Problem Solving areas.
+I am a determined Front-End Developer having around 6 years of experience. I am always eager to learn new technology and improving my self in Problem Solving areas.
 I am Improving day by day personally and professionally.
 
  I am sound with:

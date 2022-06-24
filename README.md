@@ -15,9 +15,8 @@ I am Improving day by day personally and professionally.
  ►Redux 
 
 #### Git 
- ►Git Hub Release Management
  ►CI/CD Git HUb
-
+ ►Git Hub Release Management
 
 ### Some of my Github Stats
 

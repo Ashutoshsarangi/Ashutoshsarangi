@@ -5,12 +5,18 @@ I am Improving day by day personally and professionally.
 
  I am sound with:
 
-►JavaScript ES6  
-►React JS  
-►Redux  
-►UI  
-►HTML5  
-►CSS3/Sass 
+#### Front-End
+ ►HTML5  
+ ►CSS3/Scss 
+ ►JavaScript ES6
+
+#### Front-End Library
+ ►React JS  
+ ►Redux 
+
+#### Git 
+ ►Git Hub Release Management
+ ►CI/CD Git HUb
 
 
 ### Some of my Github Stats

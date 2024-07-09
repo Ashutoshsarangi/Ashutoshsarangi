@@ -11,7 +11,8 @@ I am Improving day by day personally and professionally.
  ►JavaScript ES6
 
 #### Front-End Library
- ►React JS  
+ ►Angular
+ ►React 
  ►Redux 
 
 #### Git 

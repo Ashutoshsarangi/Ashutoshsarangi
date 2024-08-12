@@ -1,7 +1,14 @@
 ## Hey  👋, I am Ashutosh Sarangi, an Advanced Front-End Developer currently working at Amdocs.
 
 ## About Me
-With a strong passion for web development and a keen eye for detail, I specialize in creating efficient and user-friendly interfaces with clean, maintainable code. My expertise lies in JavaScript and its associated technologies, and I have a deep understanding of modern front-end frameworks and libraries. I am always eager to learn new technologies and improve my skills. I believe in writing code that not only works but is also easy to understand, test, and maintain.
+With 8 years of experience in Front-End Development under my belt 💼,
+I’ve had an exciting journey that started with PHP , JS, .net and Andriod studio, and has now led me to working with modern technologies like React, Redux Toolkit, Javascript , EcmaScript, and TypeScript 💻.
+
+I’m a firm believer in continuous learning 📚 and am currently diving deeper into the world of Front-End Development with Front-End Master.
+
+In addition to my development work, I’m also an active contributor to the dev.to community With over 10 published articles and around 2.5K followers, I enjoy sharing my knowledge and supporting fellow developers in their growth 🌱.
+
+I’m always looking forward to learning more and growing together with this wonderful community. 🤝
 
 
 ## Technical Skills 🛠️

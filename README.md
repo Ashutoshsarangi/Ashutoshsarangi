@@ -6,7 +6,7 @@ I’ve had an exciting journey that started with PHP , JS, .net and Andriod stud
 
 I’m a firm believer in continuous learning 📚 and am currently diving deeper into the world of Front-End Development with Front-End Master.
 
-In addition to my development work, I’m also an active contributor to the dev.to community With over 10 published articles and around 3K followers, I enjoy sharing my knowledge and supporting fellow developers in their growth 🌱.
+In addition to my development work, I’m also an active contributor to the dev.to community With over 10 published articles and around 5K followers, I enjoy sharing my knowledge and supporting fellow developers in their growth 🌱.
 
 I’m always looking forward to learning more and growing together with this wonderful community. 🤝
 

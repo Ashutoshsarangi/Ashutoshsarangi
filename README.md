@@ -29,5 +29,7 @@ I’m always looking forward to learning more and growing together with this won
 
 -   📫  [Email](mailto:ashutoshsarangi95@gmail.com)
 -   🔗  [LinkedIn](https://www.linkedin.com/in/ashutosh-sarangi-4a220a138/)
+-   🔗  [Dev](https://dev.to/ashutoshsarangi)
+-   🔗  [Portfolio](https://ashutoshsarangi.github.io/portfolio/#/)
 
 I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍

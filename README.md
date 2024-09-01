@@ -21,6 +21,15 @@ I’m always looking forward to learning more and growing together with this won
 -   **[Amdocs CatalogOne](https://www.amdocs.com/products-services/catalog):**  Provide consumer, business and enterprise customers with rich, innovative offerings by bundling connectivity with your own advanced digital services.
 -   **[Dabadu.ai](https://dabadu.ai/):** Dabadu aims to help car dealerships sell cars faster and more efficiently by replacing over 15 different tools with a single user-friendly platform.
 
+## Publications 📄
+
+-   **[Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m):**
+-   **[A Deep Dive into React's Optimization Algorithms & Process](https://dev.to/ashutoshsarangi/a-deep-dive-into-reacts-optimization-algorithms-process-4k57):** 
+-   **[React + Typescript Quick Adoption (Not With any 😅😅😅)](https://dev.to/ashutoshsarangi/react-typescript-quick-adoption-not-with-any--4hji):**
+-   **[Increase Your Web App Performance By 20-30%, Even more](https://dev.to/ashutoshsarangi/performance-improvement-for-web-applications-1plk):**
+-   **[Hash Map using Javascript](https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03):**
+-   **[Building My Own React-Like Library with Advanced Features! 🚀](https://dev.to/ashutoshsarangi/building-my-own-react-like-library-with-advanced-features-49d1):**
+  
 ## Professional Goals 🚀
 
 -   **Career Development  & Continuous Learning:**  I'm a firm believer in continuous learning and professional development. I strive to stay updated with the latest tech trends and constantly work on advancing my coding skills. I'm always eager to learn new technologies and improve my skills. 📈

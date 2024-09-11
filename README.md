@@ -2,11 +2,11 @@
 
 ## About Me
 With 8 years of experience in Front-End Development under my belt 💼,
-I’ve had an exciting journey that started with PHP , JS, .net and Andriod studio, and has now led me to working with modern technologies like React, Redux Toolkit, Javascript , EcmaScript, and TypeScript 💻.
+I’ve had an exciting journey working with modern technologies like React, Redux Toolkit, Javascript , EcmaScript, and TypeScript 💻.
 
 I’m a firm believer in continuous learning 📚 and am currently diving deeper into the world of Front-End Development with Front-End Master.
 
-In addition to my development work, I’m also an active contributor to the dev.to community With over **20** published articles and around **11K** followers, I enjoy sharing my knowledge and supporting fellow developers in their growth 🌱. Now I am one of the trusted members in Dev Comunity.
+In addition to my development work, I’m also an active contributor to the dev.to community With over **50** published articles and around **14K** followers, I enjoy sharing my knowledge and supporting fellow developers in their growth 🌱. Now I am one of the trusted members in Dev Comunity.
 
 I’m always looking forward to learning more and growing together with this wonderful community. 🤝
 

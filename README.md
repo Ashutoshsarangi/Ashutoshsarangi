@@ -21,6 +21,11 @@ I’m always looking forward to learning more and growing together with this won
 -   **[Amdocs CatalogOne](https://www.amdocs.com/products-services/catalog):**  Provide consumer, business and enterprise customers with rich, innovative offerings by bundling connectivity with your own advanced digital services.
 -   **[Dabadu.ai](https://dabadu.ai/):** Dabadu aims to help car dealerships sell cars faster and more efficiently by replacing over 15 different tools with a single user-friendly platform.
 
+## Certifications 🏅
+
+-   **[React Level 2 Certificate](https://interstate21.com/certificate/?code=5I08TEX):**
+
+
 ## Publications 📄
 
 -   **[Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m):**

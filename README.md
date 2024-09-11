@@ -23,17 +23,18 @@ I’m always looking forward to learning more and growing together with this won
 
 ## Certifications 🏅
 
--   **[React Level 2 Certificate](https://interstate21.com/certificate/?code=5I08TEX):**
+-   **[React Level 2 Certificate](https://interstate21.com/certificate/?code=5I08TEX)**
+![Screenshot 2024-09-09 at 7 42 35 PM](https://github.com/user-attachments/assets/9bf8f279-5cb9-4190-8839-1b768292be45)
 
 
 ## Publications 📄
 
--   **[Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m):**
--   **[A Deep Dive into React's Optimization Algorithms & Process](https://dev.to/ashutoshsarangi/a-deep-dive-into-reacts-optimization-algorithms-process-4k57):** 
--   **[React + Typescript Quick Adoption (Not With any 😅😅😅)](https://dev.to/ashutoshsarangi/react-typescript-quick-adoption-not-with-any--4hji):**
--   **[Increase Your Web App Performance By 20-30%, Even more](https://dev.to/ashutoshsarangi/performance-improvement-for-web-applications-1plk):**
--   **[Hash Map using Javascript](https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03):**
--   **[Building My Own React-Like Library with Advanced Features! 🚀](https://dev.to/ashutoshsarangi/building-my-own-react-like-library-with-advanced-features-49d1):**
+-   **[Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m)**
+-   **[A Deep Dive into React's Optimization Algorithms & Process](https://dev.to/ashutoshsarangi/a-deep-dive-into-reacts-optimization-algorithms-process-4k57)** 
+-   **[React + Typescript Quick Adoption (Not With any 😅😅😅)](https://dev.to/ashutoshsarangi/react-typescript-quick-adoption-not-with-any--4hji)**
+-   **[Increase Your Web App Performance By 20-30%, Even more](https://dev.to/ashutoshsarangi/performance-improvement-for-web-applications-1plk)**
+-   **[Hash Map using Javascript](https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03)**
+-   **[Building My Own React-Like Library with Advanced Features! 🚀](https://dev.to/ashutoshsarangi/building-my-own-react-like-library-with-advanced-features-49d1)**
   
 ## Professional Goals 🚀
 

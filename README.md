@@ -1,50 +1,171 @@
-## Hey  👋, I am Ashutosh Sarangi, an Advanced Front-End Developer currently working at Amdocs.
+# Hey 👋, I am Ashutosh Sarangi
 
-## About Me
-With 8 years of experience in Front-End Development under my belt 💼,
-I’ve had an exciting journey working with modern technologies like React, Redux Toolkit, Javascript , EcmaScript, and TypeScript 💻.
+## 🚀 Advanced Software Developer | GenAI Specialist | Micro Front-end Architect
 
-I’m a firm believer in continuous learning 📚 and am currently diving deeper into the world of Front-End Development with Front-End Master.
+**Currently working at Amdocs** - Building Enterprise catalog solutions for the telecom industry
 
-In addition to my development work, I’m also an active contributor to the dev.to community With over **50** published articles and around **14K** followers, I enjoy sharing my knowledge and supporting fellow developers in their growth 🌱. Now I am one of the trusted members in Dev Comunity.
+---
 
-I’m always looking forward to learning more and growing together with this wonderful community. 🤝
+## 🎯 About Me
 
+With **10+ years of experience** in Full-Stack Development 💼, I've evolved from a passionate Front-End Developer to a **GenAI specialist** and **Enterprise Architecture expert**. Currently expanding the boundaries of AI integration in enterprise applications.
 
-## Technical Skills 🛠️
--   **Languages:**  JavaScript, TypeScript
--   **Frameworks & Libraries:**  React, Redux tool kit, RestAPI, NodeJS, Tailwind, Ecma Script, Material UI, Boostrap
--   **Tools & Platforms:**  GitHub, Docker, Kubernetes, Firebase and CloudFlare, Postman 
+🤖 **GenAI Pioneer**: Leading the integration of LangChain, LangGraph, and Multi-Agent systems in production environments
 
-## Key Projects 📚
+🏗️ **Architecture Expert**: Specializing in Micro Front-end architecture and scalable enterprise solutions
 
--   **[Amdocs CatalogOne](https://www.amdocs.com/products-services/catalog):**  Provide consumer, business and enterprise customers with rich, innovative offerings by bundling connectivity with your own advanced digital services.
--   **[Dabadu.ai](https://dabadu.ai/):** Dabadu aims to help car dealerships sell cars faster and more efficiently by replacing over 15 different tools with a single user-friendly platform.
+📦 **Open Source Contributor**: Published 4 NPM packages with active community usage
 
-## Certifications 🏅
+🌍 **Global Impact**: Working on telecom solutions that serve millions of users worldwide
 
--   **[React Level 2 Certificate](https://interstate21.com/certificate/?code=5I08TEX)**
-![Screenshot 2024-09-09 at 7 42 35 PM](https://github.com/user-attachments/assets/9bf8f279-5cb9-4190-8839-1b768292be45)
+---
 
+## 🛠️ Technical Arsenal
 
-## Publications 📄
+### **🤖 GenAI & AI/ML**
+```
+LangChain • LangGraph • LangSmith • RAG • Vector Databases (Pinecone)
+AzureAI • OpenAI • Multi-Agent Systems • Human-in-Loop AI
+```
 
--   **[Implementing Internal Analytics Like Google Analytics Using JavaScript](https://dev.to/ashutoshsarangi/implementing-internal-analytics-as-like-google-analytics-using-javascript-3l5m)**
--   **[A Deep Dive into React's Optimization Algorithms & Process](https://dev.to/ashutoshsarangi/a-deep-dive-into-reacts-optimization-algorithms-process-4k57)** 
--   **[React + Typescript Quick Adoption (Not With any 😅😅😅)](https://dev.to/ashutoshsarangi/react-typescript-quick-adoption-not-with-any--4hji)**
--   **[Increase Your Web App Performance By 20-30%, Even more](https://dev.to/ashutoshsarangi/performance-improvement-for-web-applications-1plk)**
--   **[Hash Map using Javascript](https://dev.to/ashutoshsarangi/hash-map-using-javascript-5d03)**
--   **[Building My Own React-Like Library with Advanced Features! 🚀](https://dev.to/ashutoshsarangi/building-my-own-react-like-library-with-advanced-features-49d1)**
-  
-## Professional Goals 🚀
+### **🎨 Front-End Mastery**
+```
+React • Redux Toolkit • TypeScript • JavaScript • ECMAScript
+Angular • Tailwind CSS • Material UI • Bootstrap
+Micro Front-end Architecture • Socket.IO
+```
 
--   **Career Development  & Continuous Learning:**  I'm a firm believer in continuous learning and professional development. I strive to stay updated with the latest tech trends and constantly work on advancing my coding skills. I'm always eager to learn new technologies and improve my skills. 📈
+### **⚙️ Back-End & Infrastructure**
+```
+Node.js • Express • RESTful APIs
+Docker • Kubernetes • Jenkins • CI/CD
+MySQL • MongoDB
+```
 
-## Connect with Me 📬
+### **🏗️ Architecture & DevOps**
+```
+Microservices • Enterprise Architecture • Cloud Platforms
+GenAI Application Deployment • Container Orchestration
+```
 
--   📫  [Email](mailto:ashutoshsarangi95@gmail.com)
--   🧑‍💻  [LinkedIn](https://www.linkedin.com/in/ashutosh-sarangi-4a220a138/)
--   📃  [Dev - Publications](https://dev.to/ashutoshsarangi)
--   📄  [Portfolio](https://ashutoshsarangi.github.io/portfolio/#/)
+---
 
-I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
+## 🎯 Current Focus at Amdocs
+
+🏢 **Enterprise Catalog Project** - Telecom Industry
+- Building scalable catalog solutions for telecom operators
+- Implementing **Docker + Kubernetes** for GenAI applications
+- Developing **Human-in-Loop** AI integration with real-time feedback
+- Architecting **Micro Front-end** solutions for enterprise scale
+
+---
+
+## 📦 Published NPM Packages
+
+| Package | Description | Downloads |
+|---------|-------------|-----------|
+| **[@ashutosh95/stencildemo](https://www.npmjs.com/package/@ashutosh95/stencildemo)** | Stencil.js component demonstration library | 🔥 |
+| **[react-infinite-windowed-loader](https://www.npmjs.com/package/react-infinite-windowed-loader)** | React infinite scrolling with windowing | 📈 |
+| **[universal-data-structures](https://www.npmjs.com/package/universal-data-structures)** | Universal data structure implementations | 🚀 |
+| **[react-form-validator-plus](https://www.npmjs.com/package/react-form-validator-plus)** | Enhanced form validation for React | ⭐ |
+
+---
+
+## 🏆 Featured Projects
+
+### 🤖 **Human-in-Loop GenAI Integration**
+**Tech Stack**: Socket.IO • GenAI • LangGraph • Docker • Kubernetes • React • Python
+
+Real-time human-in-loop system for interactive AI workflows with containerized architecture for scalable deployment.
+
+**Key Features**:
+- ⚡ Real-time Socket.IO integration for instant feedback
+- 🧠 LangGraph implementation for complex AI decision trees
+- 🐳 Docker containerization for consistent deployment
+- ☸️ Kubernetes orchestration for scalable AI services
+
+### 🔧 **Multi-Agent-Toolcalling System**
+**Tech Stack**: Python • LangChain • LangSmith • Tool Calling • React • Classification
+
+Designed multi-agent system leveraging multiple LLMs for dynamic tool selection and response generation.
+
+### 📚 **KnowledgeOne**
+**Tech Stack**: Python • LangChain • RAG • Pinecone • React
+
+Advanced knowledge management system integrating Confluence with LLM using RAG architecture.
+
+### 🏢 **Enterprise B2B Solutions**
+Led development of multiple enterprise platforms including:
+- **Phoenix** - B2B product configurator with ABAC
+- **Dabadu** - Car dealership management platform (2M+ records)
+- **Rehau Smart Guard** - IoT home security system
+
+---
+
+## 🎓 Certifications & Achievements
+
+🏅 **Professional Certifications**
+- React Level-2 Certification
+- Certified Kubernetes Application Developer (CKAD) - Linux Foundation
+- DevOps Certified Professional (CP-DOF)
+- Python Exam PCEP Certified
+
+🏆 **Recognition**
+- Best Performer of the Year 2018 - Neosoft Technologies
+- Best Performer of the Month February 2019 - Neosoft Technologies
+- Published 4 NPM packages with community adoption
+- Led teams of 50+ developers across multiple projects
+
+---
+
+## 💼 Professional Journey
+
+### 🔥 **Amdocs Technology** | *Advanced Software Developer*
+`Feb 2022 - Present` | Limassol, Cyprus
+- Enterprise catalog solutions for telecom industry
+- GenAI application architecture and deployment
+- Micro front-end development and team leadership
+
+### 🚀 **Neosoft Technologies** | *Team Lead*
+`Nov 2017 - Feb 2022` | Mumbai, India
+- Led 50+ member development teams
+- Full-stack and hybrid mobile application development
+- Client interaction and end-to-end project architecture
+
+### 💻 **Previous Roles**
+- **AutoSum Infotech** | Software Developer `Aug 2017 - Nov 2017`
+- **NTCS (India) Pvt Ltd** | Software Developer `May 2016 - Aug 2017`
+
+---
+
+## 📊 GitHub Stats
+
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashutoshsarangi&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshsarangi&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-sarangi-4a220a138/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshsarangi95@gmail.com)
+[![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/settings/ashutosh95/packages)
+
+---
+
+## 🚀 Professional Goals
+
+🎯 **Current Focus**: Advancing GenAI integration in enterprise applications and exploring the intersection of AI and scalable architecture.
+
+🌱 **Learning**: Continuously expanding knowledge in AI/ML, transformer architectures, and cutting-edge development practices.
+
+🤝 **Collaboration**: Always open to working on innovative projects that push the boundaries of technology and create meaningful impact.
+
+---
+
+*"Building the future, one line of code at a time"* 💫
+
+---
+
+⭐ **If you found my work interesting, please consider giving my repositories a star!**
